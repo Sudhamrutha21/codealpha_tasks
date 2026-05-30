@@ -1,0 +1,34 @@
+[
+    {
+        "question": "What is your name?",
+        "answer": "I am an AI FAQ chatbot."
+    },
+    {
+        "question": "How are you?",
+        "answer": "I am functioning perfectly."
+    },
+    {
+        "question": "What is Python?",
+        "answer": "Python is a popular programming language."
+    },
+    {
+        "question": "Who created Python?",
+        "answer": "Python was created by Guido van Rossum."
+    },
+    {
+        "question": "What is machine learning?",
+        "answer": "Machine learning allows computers to learn from data."
+    },
+    {
+        "question": "What is AI?",
+        "answer": "AI stands for Artificial Intelligence."
+    },
+    {
+        "question": "What is NLP?",
+        "answer": "NLP means Natural Language Processing."
+    },
+    {
+        "question": "What is your purpose?",
+        "answer": "I help users by answering FAQs."
+    }
+]
